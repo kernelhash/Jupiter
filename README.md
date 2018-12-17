@@ -15,6 +15,8 @@ A Windows memory editing library that supports several memory editing methods
 
 ## Installation
 
+* Download and install Jupiter using [NuGet](https://www.nuget.org/packages/Jupiter)
+
 ## Useage
 
 You can also overload any method with a process id  or a `SafeHandle` to the process instead of a process name
