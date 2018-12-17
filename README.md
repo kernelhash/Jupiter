@@ -1,5 +1,7 @@
 # Jupiter
 
+[![Build status](https://ci.appveyor.com/api/projects/status/jp6fnwbq34w012gj?svg=true)](https://ci.appveyor.com/project/Akaion/jupiter)
+
 A Windows memory editing library that supports several memory editing methods
 
 ## Supported Methods
